@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C51FEA901DA51D160056ABA9 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8765S6Z4ZQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8765S6Z4ZQ;
 				INFOPLIST_FILE = demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.betty.demo;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8765S6Z4ZQ;
 				INFOPLIST_FILE = demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.betty.demo;
@@ -297,6 +300,7 @@
 				C51FEAA51DA51D170056ABA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
